@@ -1,1 +1,4 @@
-print("Hello World from Python!")
+def print_message(message):
+  print(message)
+
+print_message('Hello from function')
